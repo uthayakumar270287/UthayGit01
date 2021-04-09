@@ -1,4 +1,4 @@
-# socgenSprint
+# Sprint
 In this kata, you will focus on the score of a tennis set.
 SPRINT1 : manage a tennis GAME within a set of a tennis match
 #User Story 1 :
